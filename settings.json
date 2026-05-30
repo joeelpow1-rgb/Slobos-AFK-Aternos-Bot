@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blackfish.aternos.host",
+    "ip": "powjoeel.aternos.me",
     "port": 13775,
     "version": "26.1.2",
     "try-creative": false
